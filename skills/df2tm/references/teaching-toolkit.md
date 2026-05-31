@@ -1,6 +1,6 @@
 # df2tm Teaching Toolkit
 
-Scan this file by **moment-type heading** during the teaching loop's Select step (Step 3). Each entry names the technique, says what it is, tells you exactly when and how to apply it in a live coding session, and gives a concrete example of the aside Claude would produce. File under primary moment-type; secondary types are noted inline. Note: delivery principles (the 🎓 / ★ marker convention, Von Restorff effect) apply at every moment-type regardless of the section they are listed under.
+Scan this file by **moment-type heading** during the teaching loop's Select step (Step 3). Each entry names the technique, says what it is, tells you exactly when and how to apply it in a live coding session, and gives a concrete example of the aside Claude would produce. File under primary moment-type; secondary types are noted inline. Note: delivery principles (the 🎓 / ★ marker convention, Von Restorff effect) apply at every moment-type regardless of the section they are listed under. Note: "Specification skill" and "Delegation monitoring" are df2tm-native AI-direction techniques rather than named learning-science effects, so they do not appear in the science library.
 
 ---
 
