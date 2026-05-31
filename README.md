@@ -1,5 +1,3 @@
-**df2tm (don't forget to teach me)**
-
 # df2tm 🎓
 
 **don't forget to teach me** is an always-on learning layer for [claude code](https://claude.com/claude-code).
@@ -17,11 +15,11 @@ it:
 - **teaches while claude works:** when a load-bearing concept shows up in your task, df2tm drops a short, skimmable `🎓` aside explaining it and then gets out of the way.
 - **remembers across sessions:** concepts worth keeping go into a local learner model with spaced-repetition review dates. next time they come up, df2tm checks what stuck.
 - **stays quiet when it should:** a relevance gate means it only teaches what's *load-bearing*, *forward-useful*, and *new to you*. during a production firefight or a "just do it," it says nothing.
-- **makes you a better director:** beyond the code itself, df2tm teaches you to steer claude better — sharper prompts, when to delegate vs. learn, when to ask for the reasoning.
+- **makes you a better director:** beyond the code itself, df2tm teaches you to steer claude better with sharper prompts, when to delegate vs. learn, when to ask for the reasoning, and so on.
 
 ### what it looks like
 
-> **you:** typing in this search box is laggy — it re-filters 5000 items on every keystroke. make it responsive.
+> **you:** typing in this search box is laggy. it re-filters 5000 items on every keystroke. make it responsive. 
 >
 > **claude:** *(makes the fix with `useMemo` + `useDeferredValue`)*
 >
