@@ -78,7 +78,7 @@ it also auto-calibrates: engage and it teaches a bit more; ignore it and it back
 | `/df2tm quiz` | active-recall session |
 | `/df2tm debrief` | structured recap of the current task |
 
-**intensities:** `silent` (off, still journals) · **`ambient`** (default — sparse, inline) · `active` (more frequent, adds callouts) · `socratic` (asks you to predict/recall before revealing).
+**intensities:** `silent` (off, still journals) · **`ambient`** (default mode. sparse, inline) · `active` (more frequent, adds callouts) · `socratic` (asks you to predict/recall before revealing).
 
 ## state & privacy
 
@@ -112,3 +112,7 @@ optionally remove your learning history: `rm -rf ~/.claude/df2tm`.
 ## license
 
 mit
+
+## designed + built by 
+christopher robin fiore ^.^
+design engineer, creative technologist, happiest boyfriend on the planet :>
