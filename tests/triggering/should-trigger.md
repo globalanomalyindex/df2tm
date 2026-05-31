@@ -18,7 +18,7 @@ The user is building a search-as-you-type input. They ask Claude to wire up the 
 **Expected df2tm behavior:**
 - Claude completes the task correctly (debounced `onChange` handler).
 - A `🎓` inline aside (1–3 sentences) explains *why debounce* was chosen over throttle for search inputs: debounce fires only after the user pauses, whereas throttle fires on a fixed interval — the former eliminates wasted calls when keystrokes are rapid.
-- The concept `debounce vs. throttle` is recorded to the learner model with axis: domain, grasp: forming, next-review scheduled.
+- The concept `debounce vs. throttle` is recorded to the learner model with axis: domain, grasp: new, next-review scheduled.
 - The aside is skimmable; the working code comes first.
 
 ---
