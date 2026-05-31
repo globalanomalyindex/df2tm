@@ -63,7 +63,7 @@ concepts worth keeping are recorded with a grasp level (`new -> shaky -> solid`)
 | `why did you do that` | explains the last decision |
 | `quiz me` | runs an active-recall session on what's due |
 | `debrief` | recaps the session's key concepts + a few recall questions |
-| `i already know this` | marks the concept known — never taught again |
+| `i already know this` | marks the concept known ~ never taught again |
 
 it also auto-calibrates: engage and it teaches a bit more; ignore it and it backs off. changes are always explained, never silent.
 
