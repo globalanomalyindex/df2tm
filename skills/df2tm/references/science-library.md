@@ -1,0 +1,184 @@
+# df2tm Science Library
+
+How to use: default to Tier 1 techniques, justified by Tier 2, grounded in Tier 3
+only when the user is curious about the science. Tier 3 is the honest biological
+"why it works" — never describe it as something you literally do.
+
+## Tier 1 — Techniques (actionable)
+
+- **Spaced repetition** — re-surface concepts at expanding intervals, right as memory fades. [toolkit → see teaching-toolkit.md]
+- **Active recall** — require the user to retrieve information before revealing the answer. [toolkit → see teaching-toolkit.md]
+- **Retrieval practice** — have the user reconstruct knowledge (code, pseudocode, definition) from memory. [toolkit → see teaching-toolkit.md]
+- **Elaborative encoding** — connect new concepts to existing knowledge by explaining why they exist. [toolkit → see teaching-toolkit.md]
+- **Elaborative interrogation** — ask the user to generate the reason why something is true. [toolkit → see teaching-toolkit.md]
+- **Self-explanation** — ask the user to re-explain a concept or decision in their own words. [toolkit → see teaching-toolkit.md]
+- **Interleaving** — mix related but distinct concepts rather than exhausting one before the next. [toolkit → see teaching-toolkit.md]
+- **Chunking** — group related items into a single labeled unit to reduce working memory load. [toolkit → see teaching-toolkit.md]
+- **Dual coding** — pair verbal explanation with a visual or structural representation. [toolkit → see teaching-toolkit.md]
+- **Self-reference effect** — anchor concepts to the user's own code, project, or past decisions. [toolkit → see teaching-toolkit.md]
+- **Von Restorff effect** — make teaching asides visually and structurally distinct from narration. [toolkit → see teaching-toolkit.md]
+- **Zeigarnik effect** — leave intentional open loops ("we'll return to this") to prime retention. [toolkit → see teaching-toolkit.md]
+- **Desirable difficulties** — introduce mild productive struggle to deepen encoding. [toolkit → see teaching-toolkit.md]
+- **Schema activation** — build an organizing framework when no direct analogue exists. [toolkit → see teaching-toolkit.md]
+- **Prior knowledge activation** — map a new concept onto something the user already knows. [toolkit → see teaching-toolkit.md]
+- **Mental model construction** — give the user an explicit, inspectable picture of how something works. [toolkit → see teaching-toolkit.md]
+- **Cognitive load optimization** — sequence concepts so working memory is never overloaded. [toolkit → see teaching-toolkit.md]
+- **Analogical transfer** — use a well-understood domain to illuminate a less-familiar one. [toolkit → see teaching-toolkit.md]
+- **Metacognitive monitoring** — prompt the user to rate their own grasp before moving on. [toolkit → see teaching-toolkit.md]
+- **Embedded questioning** — weave a question into explanation flow without breaking narrative rhythm. [toolkit → see teaching-toolkit.md]
+- **Pre-testing effect** — ask a question before the answer is given to prime retention. [toolkit → see teaching-toolkit.md]
+- **Worked example → faded guidance** — progress from full worked example to increasingly partial scaffolding. [toolkit → see teaching-toolkit.md]
+- **Epistemic curiosity activation** — surface a surprising fact to make the user want to understand first. [toolkit → see teaching-toolkit.md]
+- **Generation effect** — have the user produce an answer or sketch before the correct version is revealed. [toolkit → see teaching-toolkit.md]
+- **Structural organization** — give explicit signposts naming structure and sequence before a multi-part explanation. [toolkit → see teaching-toolkit.md]
+- **Text signaling** — use typographic emphasis to steer attention to the load-bearing line. [toolkit → see teaching-toolkit.md]
+- **Overlearning** — continue practice past initial mastery to build automaticity and resilience.
+- **Focused/diffuse mode switching** — suggest stepping away to let incubation and diffuse processing occur.
+- **Bizarreness effect** — use memorable or unusual imagery sparingly to make a concept stick.
+- **Keyword mnemonic** — associate an unfamiliar term with a sound-alike keyword and a vivid image.
+- **Method of loci** — mentally place items along a familiar spatial path for later retrieval.
+- **Pegword system** — link list items to a fixed set of rhyming peg words for ordered recall.
+- **Coherence building** — explicitly connect ideas so the user sees relationships, not isolated facts.
+- **Inference generation** — prompt the user to infer an implication rather than stating it directly.
+- **Associative network expansion** — explicitly link new knowledge to multiple existing nodes.
+- **Cognitive offloading** — teach when to delegate to AI versus when to retain knowledge yourself. [toolkit → see teaching-toolkit.md]
+- **Intrinsic motivation modulation** — frame the concept's relevance and future payoff before teaching it. [toolkit → see teaching-toolkit.md]
+- **Attentional cueing** — explicitly direct attention to the single most important line or decision. [toolkit → see teaching-toolkit.md]
+- **Inattentional-blindness reduction** — name the thing that is easy to overlook or silently assume. [toolkit → see teaching-toolkit.md]
+- **Task-switching optimization** — advise batching similar tasks to reduce switching overhead.
+- **Mental fatigue mitigation** — suggest breaks and keep asides short to preserve cognitive resources.
+
+## Tier 2 — Cognitive effects (justify / tune)
+
+- **Testing effect** — being tested on material improves retention more than restudying it.
+- **Production effect** — saying or writing information aloud at encoding strengthens memory traces.
+- **Enactment effect** — physically performing an action phrase at encoding (a subject-performed task) is remembered better than merely hearing or reading it.
+- **Levels of processing effect** — deeper semantic processing at encoding yields stronger, more durable memories.
+- **Primacy effect** — items encountered first in a sequence are disproportionately well remembered.
+- **Recency effect** — items encountered last in a sequence are disproportionately well remembered.
+- **Encoding specificity principle** — retrieval succeeds best when cues match the original encoding context.
+- **Transfer-appropriate processing** — memory is best when the processing type at retrieval matches encoding.
+- **Context-dependent memory** — reinstatement of the encoding environment (physical or mental) aids retrieval.
+- **State-dependent memory** — internal physiological or emotional state at retrieval should match encoding state.
+- **Situation model updating** — comprehension proceeds by updating a mental simulation of the described world.
+- **Germane cognitive load recruitment** — effortful processing that builds schema is load worth paying.
+- **Picture superiority effect** — images are remembered better than words; pairs are better than either alone.
+- **Test-potentiated learning** — a failed retrieval attempt makes a subsequent study trial more effective.
+- **Hypercorrection effect** — high-confidence errors are corrected more durably than low-confidence errors.
+- **Retrieval-induced forgetting** — practicing some items can suppress memory for related but unpracticed items.
+- **Directed forgetting** — instructing learners to forget material can inhibit its later recall.
+- **Incidental learning encoding** — material processed without explicit intent to learn can still be well retained.
+- **Sleep-dependent memory consolidation** — offline sleep processing transfers and stabilizes newly encoded memories.
+- **Memory reconsolidation** — retrieved memories re-enter a labile state and can be updated by new information.
+- **Yerkes-Dodson optimal arousal** — performance peaks at moderate arousal; too little or too much degrades learning.
+- **Flow state cognition** — full absorption in a matched challenge–skill task enhances encoding and performance.
+- **Mindfulness-based attentional control** — sustained present-moment attention reduces mind-wandering during study.
+- **Lag effect** — longer, expanding intervals between repetitions produce stronger retention than massed spacing.
+- **Hypermnesia** — memory for a set of items can improve across successive recall attempts without re-study.
+- **Reminiscence** — some previously unrecallable items become recallable after a delay without further study.
+- **Part-set cuing mitigation** — presenting part of a studied set as retrieval cues can impair recall of the rest.
+- **Cognitive flexibility** — ability to switch between mental sets; trainable through varied practice.
+- **Working memory capacity gating** — the number of chunks held in mind limits the complexity of reasoning.
+- **Executive function recruitment** — planning, inhibition, and updating resources must be conserved during learning.
+- **Semantic priming** — activation of a concept speeds processing of semantically related concepts.
+- **Syntactic priming** — exposure to a grammatical structure increases likelihood of reusing that structure.
+- **Conceptual priming** — exposure to a category or concept eases subsequent processing of category members.
+- **Perceptual priming** — prior exposure to the surface form of a stimulus facilitates later identification.
+- **Controlled-to-automatic processing transition** — consistent practice shifts effortful processing to automaticity.
+- **Need for cognition** — individual drive to engage in effortful thinking; high need predicts deeper encoding.
+- **Working memory refreshing** — actively rehearsing items in working memory maintains them against decay.
+- **Working memory updating** — replacing outdated working memory contents with newly relevant information.
+- **Working memory maintenance** — holding representations stable in working memory over a delay.
+- **Proactive interference resolution** — older competing memories can intrude on new learning; cues help resolve.
+- **Retroactive interference mitigation** — new learning can disrupt older memories; spacing and sleep reduce this.
+- **Fan effect mitigation** — having many associations to a concept slows retrieval; targeted practice helps.
+- **Boundary extension** — tendency to remember scenes as wider than they were; signals schematic generalization.
+- **Text-base representation** — the literal linguistic content extracted from a text before deeper modeling.
+- **Macrostructural processing** — building a gist-level, hierarchical summary of a text's main ideas.
+- **Microstructural processing** — tracking local sentence-to-sentence coherence and referential continuity.
+- **Anaphoric resolution** — linking pronouns and ellipsis to their antecedents to maintain coherent discourse.
+- **Predictive processing** — the mind continuously generates predictions about upcoming information.
+- **Active inference** — the mind reduces prediction error not only by updating beliefs but by acting to make sensory input match predictions (e.g., moving the eyes to sample expected information).
+- **Prediction error minimization** — the gap between predicted and actual input becomes the learning signal that updates internal models.
+- **Orthographic mapping** — binding written word forms to phonological and meaning representations in memory.
+- **Phonological decoding** — converting print to sound as a route to word recognition.
+- **Top-down attentional control** — goal-directed attention selects which stimuli receive deep processing.
+- **Bottom-up attentional capture mitigation** — reducing salient distractors preserves cognitive resources for goals.
+- **Cognitive shifting** — deliberately disengaging from one mental set to engage another; core of flexibility.
+- **Subvocalization modulation** — inner speech during reading; moderate levels support comprehension.
+- **Orthographic processing efficiency** — fluency in recognizing word forms frees capacity for comprehension.
+- **Semantic satiation avoidance** — prolonged repetition of a word temporarily weakens its meaning access.
+- **Cognitive inhibition** — suppressing irrelevant or interfering representations to focus on target knowledge.
+- **Latent semantic analysis activation** — meaning represented as a position in a high-dimensional space derived from word co-occurrence across many contexts; similar usage yields similar representations.
+- **Dual-task cost reduction** — automatizing a component skill frees capacity for concurrent higher-level tasks.
+- **Cognitive endurance** — sustained capacity for effortful mental work; degrades with fatigue, improves with rest.
+
+## Tier 3 — Neural mechanisms (ground; not performed)
+
+- **Attention entrainment** — neural oscillations phase-lock to rhythmic stimuli, synchronizing processing windows.
+- **Neural entrainment** — brain rhythms synchronize to external temporal structure in speech or patterns.
+- **Theta-gamma coupling** — hippocampal theta oscillations nest gamma bursts, organizing multi-item memory sequences.
+- **Sharp-wave ripples** — brief high-frequency bursts during rest and sleep that replay and consolidate recent episodes.
+- **Targeted memory reactivation** — cues presented during sleep selectively reactivate associated memory traces.
+- **Synaptic plasticity** — activity-dependent changes in synaptic strength that underlie learning and memory storage.
+- **Long-term potentiation** — strengthening of synaptic connections with repeated co-activation; the cellular basis of durable memory.
+- **Long-term depression** — weakening of underused synaptic connections, enabling selective pruning and refinement.
+- **Synaptic tagging and capture** — a synaptic tag marks recently active synapses so plasticity proteins are captured later.
+- **Structural neuroplasticity** — physical growth or retraction of dendritic branches and synaptic contacts with experience.
+- **Dendritic spine remodeling** — changes in the size, shape, and number of dendritic spines reflect learning-driven rewiring.
+- **Myelination** — glial wrapping of axons speeds signal conduction, supporting faster and more reliable processing.
+- **Epigenetic histone acetylation** — acetylation opens chromatin structure, enabling transcription of plasticity-related genes.
+- **DNA methylation modulation** — methylation patterns at gene promoters regulate long-term changes in neural gene expression.
+- **Immediate early gene expression** — rapid induction of genes like c-Fos and Arc marks recently active neurons for plasticity.
+- **CREB activation** — transcription factor activated by learning signals that drives expression of memory consolidation genes.
+- **Brain-derived neurotrophic factor release** — BDNF supports neuron survival, synaptogenesis, and long-term potentiation.
+- **Neurogenesis** — new neurons born in the adult hippocampus integrate into circuits supporting pattern separation and new learning.
+- **Neurovascular coupling** — local neural activity triggers increased blood flow, sustaining metabolic demands of active processing.
+- **Dopaminergic reward-mediated gating** — dopamine release marks salient or rewarding events, strengthening associated synaptic connections.
+- **Noradrenergic locus coeruleus activation** — norepinephrine from the locus coeruleus boosts arousal and gates plasticity in target regions.
+- **Default mode network suppression** — task engagement suppresses internally directed thought, freeing resources for external processing.
+- **Central executive network recruitment** — frontoparietal network underpins working memory, attention control, and cognitive flexibility.
+- **Salience network integration** — detects and switches attention to behaviorally relevant stimuli, coordinating task and default networks.
+- **Cross-modal plasticity** — sensory cortices reorganize to process inputs from other modalities following deprivation or training.
+- **Visual word form area tuning** — left occipito-temporal cortex becomes specialized for rapid, holistic orthographic recognition.
+- **Dual-route cascading activation** — reading engages parallel lexical and sub-lexical phonological routes simultaneously.
+- **Eye-movement control optimization** — skilled reading involves precise saccade programming calibrated to word frequency and predictability.
+- **Synaptic homeostasis** — overall synaptic strength is downscaled during sleep to prevent saturation and enable future learning.
+- **Choline acetyltransferase upregulation** — increased synthesis of ACh in basal forebrain supports attention and hippocampal plasticity.
+- **Cortical reorganization** — extensive practice remaps cortical representations, allocating more territory to trained skills.
+- **Cognitive reserve accumulation** — lifelong mental engagement builds a neural buffer that delays symptomatic decline.
+- **Attentional blink compression** — with training, the temporal window of attentional suppression following a target narrows.
+- **Feature binding** — separate neural representations of an object's features are integrated into a unified percept.
+- **Relational binding** — associations between distinct items (e.g., word–location pairs) are encoded as linked representations.
+- **Hippocampal binding** — the hippocampus links cortically distributed features into coherent, context-rich episodic memories.
+- **Cortical binding** — long-range synchrony across cortical areas integrates distributed feature representations.
+- **Precision weighting** — the brain modulates the influence of prediction errors by their estimated reliability.
+- **Neuromodulation** — neuromodulators (dopamine, ACh, norepinephrine, serotonin) globally gate plasticity and signal-to-noise ratio.
+- **Glymphatic clearance** — cerebrospinal fluid flushes metabolic waste (including amyloid) from the brain mainly during sleep.
+- **Microglial synaptic pruning** — microglia selectively eliminate weak or inactive synapses to refine neural circuit connectivity.
+- **Astrocytic metabolic support** — astrocytes supply lactate and other metabolites to fuel active neurons during learning.
+- **Oligodendrocyte myelination** — oligodendrocytes produce myelin sheaths that increase axonal conduction velocity and reliability.
+- **NMDA receptor activation** — coincidence-detector glutamate receptors require both pre- and post-synaptic activity to open, gating LTP.
+- **AMPA receptor trafficking** — insertion and removal of AMPA receptors at the synapse rapidly changes synaptic strength.
+- **Metabotropic glutamate receptor activation** — mGluRs modulate synaptic plasticity and neuronal excitability via second messengers.
+- **Retrograde signaling** — postsynaptic cells send signals backward to presynaptic terminals to modulate release.
+- **Metaplasticity** — prior synaptic activity changes the threshold and direction of future plasticity at that synapse.
+- **Homeostatic plasticity** — neurons regulate their own activity levels by adjusting excitability when driven too high or low.
+- **Spike-timing-dependent plasticity** — the millisecond-order timing of pre- and post-synaptic spikes determines the direction of weight change.
+- **Heterosynaptic plasticity** — activity at one synapse alters the strength of nearby, unstimulated synapses.
+- **Homosynaptic plasticity** — changes in synaptic strength confined to the specifically activated synapse.
+- **Systems consolidation** — memories gradually transfer from hippocampus to distributed neocortical storage over weeks to years.
+- **Cellular consolidation** — molecular stabilization of a memory trace within hours of encoding via protein synthesis.
+- **Synaptic consolidation** — early post-encoding period during which synaptic changes are stabilized by protein synthesis.
+- **Neocortical integration** — slow cortical learning gradually embeds extracted statistical regularities into long-term representations.
+- **Hippocampal-neocortical dialogue** — coordinated replay between hippocampus and neocortex during sleep drives systems consolidation.
+- **Cross-frequency coupling** — slower oscillations modulate the amplitude of faster ones, coordinating multi-scale neural communication.
+- **Alpha-theta oscillations** — alpha (8–12 Hz) and theta (4–8 Hz) bands coordinate inhibition, working memory, and encoding states.
+- **Beta-band synchronization** — beta oscillations (13–30 Hz) index maintenance of current cognitive set and top-down predictions.
+- **Gamma-band coherence** — gamma oscillations (30–100 Hz) bind locally active neural assemblies during perception and working memory.
+- **Event-related desynchronization** — suppression of rhythmic activity signals cortical activation and engagement with a task.
+- **Event-related synchronization** — post-task rebound of rhythmic activity reflects inhibition or consolidation processes.
+- **N400 wave modulation** — negative ERP component peaking at 400 ms reflects the ease of semantic integration.
+- **P600 wave modulation** — positive ERP component peaking at 600 ms reflects syntactic reanalysis and revision processes.
+- **P300 wave modulation** — positive ERP component reflecting attentional resource allocation to a relevant or surprising stimulus.
+- **Mismatch negativity** — automatic auditory ERP elicited when a sound deviates from a recently established regularity (the encoded "standard"); reflects pre-attentive change detection.
