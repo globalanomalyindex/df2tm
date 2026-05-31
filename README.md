@@ -2,15 +2,17 @@
 
 # df2tm 🎓
 
-**don't forget to teach me** — an always-on learning layer for [claude code](https://claude.com/claude-code).
+**don't forget to teach me** is an always-on learning layer for [claude code](https://claude.com/claude-code).
 
-> claude code does great work. df2tm makes sure *you* learn from it. as claude works on your real projects, it teaches the concepts behind what it's doing and remembers what you've learned across sessions. you keep claude's full speed and grow your own understanding at the same time!
+> claude code does great work. df2tm makes sure *you* learn from it. as claude works on your real projects, it teaches the concepts behind what it's doing and remembers what you've learned across sessions. so, you keep claude's full speed and grow your own understanding at the same time!
 
-it answers a question a lot of people have about ai: *how do we make it help us improve, instead of just replacing our work?*
+this is my answer to the pressing question a lot of young people like myself have about ai: *how do we make it help us improve, instead of just replacing our work?*
 
 ---
 
-## what it does
+## what df2tm does practically
+
+it:
 
 - **teaches while claude works:** when a load-bearing concept shows up in your task, df2tm drops a short, skimmable `🎓` aside explaining it and then gets out of the way.
 - **remembers across sessions:** concepts worth keeping go into a local learner model with spaced-repetition review dates. next time they come up, df2tm checks what stuck.
@@ -82,7 +84,7 @@ it also auto-calibrates: engage and it teaches a bit more; ignore it and it back
 
 ## state & privacy
 
-everything is **local on your machine** — nothing is sent anywhere.
+everything is **local on your machine.** nothing is sent anywhere.
 
 | path | what's in it |
 |---|---|
