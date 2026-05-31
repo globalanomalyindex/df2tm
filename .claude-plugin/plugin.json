@@ -1,0 +1,10 @@
+{
+  "name": "df2tm",
+  "description": "Don't Forget To Teach Me — an always-on, relevance-gated learning layer that teaches the concepts behind Claude's work as it works, and remembers them across sessions.",
+  "version": "0.1.0",
+  "author": { "name": "Christopher Robin Fiore" },
+  "homepage": "https://github.com/globalanomalyindex/df2tm",
+  "repository": "https://github.com/globalanomalyindex/df2tm",
+  "license": "MIT",
+  "keywords": ["learning", "teaching", "spaced-repetition", "active-recall", "education", "memory", "mentor", "metacognition"]
+}

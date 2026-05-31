@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "df2tm",
+  "version": "0.1.0",
+  "description": "Don't Forget To Teach Me — learning layer for Claude Code.",
+  "owner": {
+    "name": "Christopher Robin Fiore",
+    "email": "134718004+globalanomalyindex@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "df2tm",
+      "source": ".",
+      "category": "learning",
+      "version": "0.1.0",
+      "description": "Always-on, relevance-gated learning layer: teaches the concepts behind Claude's work and remembers them across sessions."
+    }
+  ]
+}
