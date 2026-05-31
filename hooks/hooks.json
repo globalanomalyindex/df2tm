@@ -1,0 +1,17 @@
+{
+  "description": "df2tm always-on learning layer: seeds state, injects the operating directive, and surfaces due reviews at session start.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/handlers/session-start.sh",
+            "async": false
+          }
+        ]
+      }
+    ]
+  }
+}
