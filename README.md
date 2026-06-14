@@ -69,14 +69,16 @@ it also auto-calibrates: engage and it teaches a bit more; ignore it and it back
 
 ## commands
 
+claude code namespaces plugin commands by plugin name, so df2tm's command is **`/df2tm:df2tm`** (a bare `/df2tm` won't match). it's arg-routed — pass a sub-action as the argument. or skip the slash entirely and use the plain-language steering phrases above; they need no command.
+
 | command | what it does |
 |---|---|
-| `/df2tm` | status: intensity, concepts tracked, what's due |
-| `/df2tm on` · `/df2tm off` | toggle teaching |
-| `/df2tm intensity <level>` | `silent` · `ambient` · `active` · `socratic` |
-| `/df2tm known <topic>` | mark a topic as already known |
-| `/df2tm quiz` | active-recall session |
-| `/df2tm debrief` | structured recap of the current task |
+| `/df2tm:df2tm` | status: intensity, concepts tracked, what's due (default when no argument) |
+| `/df2tm:df2tm on` · `/df2tm:df2tm off` | toggle teaching |
+| `/df2tm:df2tm intensity <level>` | set `silent` · `ambient` · `active` · `socratic` |
+| `/df2tm:df2tm known <topic>` | mark a topic as already known |
+| `/df2tm:df2tm quiz` | active-recall session over what's due |
+| `/df2tm:df2tm debrief` | structured recap of the current task |
 
 **intensities:** `silent` (off, still journals) · **`ambient`** (default mode. sparse, inline) · `active` (more frequent, adds callouts) · `socratic` (asks you to predict/recall before revealing).
 
